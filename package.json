@@ -1,0 +1,17 @@
+{
+  "name": "showsign",
+  "version": "1.0.0",
+  "description": "Fire ShowSign announcement cues to screen groups from Bitfocus Companion",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "package": "companion-module-build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@companion-module/base": "~1.11.0"
+  },
+  "devDependencies": {
+    "@companion-module/tools": "~2.1.0"
+  }
+}
