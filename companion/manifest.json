@@ -1,12 +1,12 @@
 {
-  "id": "showsign",
-  "name": "showsign",
+  "id": "showsign-signage",
+  "name": "showsign-signage",
   "shortname": "ShowSign",
   "description": "Fire ShowSign announcement cues to screen groups (take-your-seats prompts, brand loops, and more).",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "https://github.com/abartjc/companion-module-showsign",
-  "bugs": "https://github.com/abartjc/companion-module-showsign/issues",
+  "repository": "https://github.com/abartjc/companion-module-showsign-signage",
+  "bugs": "https://github.com/abartjc/companion-module-showsign-signage/issues",
   "maintainers": [
     {
       "name": "Jacob Abart",
@@ -21,6 +21,6 @@
     "entrypoint": "../main.js"
   },
   "manufacturer": "ShowSign",
-  "products": ["ShowSign"],
+  "products": ["Signage"],
   "keywords": ["signage", "announcements", "events"]
 }

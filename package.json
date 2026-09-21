@@ -1,5 +1,5 @@
 {
-  "name": "showsign",
+  "name": "showsign-signage",
   "version": "1.0.0",
   "description": "Fire ShowSign announcement cues to screen groups from Bitfocus Companion",
   "main": "main.js",
